@@ -103,3 +103,10 @@ h2 {
 .boxMatch::after {
     transform: rotateY(180deg);
 }
+p {
+    font-size: 1em;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+
+}
